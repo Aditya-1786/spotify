@@ -1,0 +1,88 @@
+.link-container {
+  background-color: black;
+  width: 25vw;
+  /* height: 100vh; */
+  display: flex;
+  flex-direction: column;
+  color: #dbdbdb;
+  padding: 0.2rem;
+  position: sticky;
+}
+.search-container {
+  display: flex;
+  margin-left: 0.5rem;
+  margin-top: 0.5rem;
+}
+.dot-icon {
+  margin-top: 1rem;
+  margin-left: 0.5rem;
+}
+.search-text {
+  margin-left: 0.5rem;
+}
+.search-container:hover {
+  color: white;
+}
+.home-container {
+  display: flex;
+  margin-left: 0.5rem;
+}
+.home-text {
+  margin-left: 0.5rem;
+}
+.home-container:hover {
+  color: white;
+}
+.library-container {
+  display: flex;
+  margin-left: 0.5rem;
+  margin-top: 0.5rem;
+  transition: color ease-in-out;
+}
+.library-text {
+  margin-left: 0.5rem;
+}
+.library-container:hover {
+  color: white;
+}
+.playlist-container {
+  display: flex;
+  margin-left: 0.5rem;
+  margin-top: 2rem;
+  transition: color ease-in-out;
+}
+.playlist-text {
+  margin-left: 0.5rem;
+}
+.playlist-container:hover {
+  color: white;
+}
+.like-container {
+  display: flex;
+  margin-left: 0.5rem;
+  margin-top: 0.5rem;
+  transition: color ease-in-out;
+}
+.like-text {
+  margin-left: 0.5rem;
+}
+.like-container:hover {
+  color: white;
+}
+.line {
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+  margin-top: 0.5rem;
+  border-color: #9c9c9c;
+}
+.playlists-list {
+  margin-top: 1rem;
+  margin-left: 0.5rem;
+  list-style: none;
+}
+.playlists-list li {
+  margin-top: 0.5rem;
+}
+.playlists-list li:hover {
+  color: white;
+}

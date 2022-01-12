@@ -1,0 +1,18 @@
+.friend-container {
+  background-color: black;
+  width: 15vw;
+  /* height: 100vh; */
+  color: #dbdbdb;
+}
+.headline {
+  display: flex;
+}
+.headline h3 {
+  font-size: 15px;
+  padding: 0.5rem;
+  flex: 1;
+}
+.headline .add {
+  padding: 0.5rem;
+  justify-self: flex-end;
+}
