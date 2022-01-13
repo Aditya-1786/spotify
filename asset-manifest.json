@@ -1,23 +1,30 @@
 {
   "files": {
-    "main.css": "/spotify/static/css/main.767fff97.css",
-    "main.js": "/spotify/static/js/main.34b282af.js",
+    "main.css": "/spotify/static/css/main.e3ff3c42.css",
+    "main.js": "/spotify/static/js/main.616b3ad9.js",
     "static/js/787.8c4fa81c.chunk.js": "/spotify/static/js/787.8c4fa81c.chunk.js",
     "static/media/Mad_Martin.png": "/spotify/static/media/Mad_Martin.03fc5f05ea400b3a8f48.png",
+    "static/media/nannu.jpg": "/spotify/static/media/nannu.e6a085db11c27db551e3.jpg",
     "static/media/tx.jpg": "/spotify/static/media/tx.002fc380361408a1c19b.jpg",
     "static/media/indie.jpg": "/spotify/static/media/indie.b4467d3501b8279897e8.jpg",
+    "static/media/paaji.jpg": "/spotify/static/media/paaji.aeca747e5e3abfd57813.jpg",
     "static/media/dc.jpg": "/spotify/static/media/dc.90758382cf6a8cea1afa.jpg",
+    "static/media/pop.jpg": "/spotify/static/media/pop.5d09188fbb386584941c.jpg",
     "static/media/bol.jpg": "/spotify/static/media/bol.00322e09bd37b48b178f.jpg",
+    "static/media/sexy.jpg": "/spotify/static/media/sexy.c98709f825b36afcc38b.jpg",
+    "static/media/id.jpg": "/spotify/static/media/id.376506761cf427f02f50.jpg",
     "static/media/ap.jpg": "/spotify/static/media/ap.7b6fcff0377a070a4752.jpg",
+    "static/media/top.jpg": "/spotify/static/media/top.30a8892527e0480aee21.jpg",
+    "static/media/best.jpg": "/spotify/static/media/best.05f8de0f4d0d71151676.jpg",
     "static/media/hh.jpg": "/spotify/static/media/hh.f5bc0cc87682c8f7692d.jpg",
     "static/media/tiss.jpg": "/spotify/static/media/tiss.4428064a9a7a1d42b275.jpg",
     "index.html": "/spotify/index.html",
-    "main.767fff97.css.map": "/spotify/static/css/main.767fff97.css.map",
-    "main.34b282af.js.map": "/spotify/static/js/main.34b282af.js.map",
+    "main.e3ff3c42.css.map": "/spotify/static/css/main.e3ff3c42.css.map",
+    "main.616b3ad9.js.map": "/spotify/static/js/main.616b3ad9.js.map",
     "787.8c4fa81c.chunk.js.map": "/spotify/static/js/787.8c4fa81c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.767fff97.css",
-    "static/js/main.34b282af.js"
+    "static/css/main.e3ff3c42.css",
+    "static/js/main.616b3ad9.js"
   ]
 }
