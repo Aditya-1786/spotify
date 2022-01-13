@@ -16,3 +16,32 @@
   padding: 0.5rem;
   justify-self: flex-end;
 }
+.f1 {
+  display: flex;
+  padding: 0.5rem;
+}
+.f1 img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+.fr-info {
+  display: flex;
+  flex-direction: column;
+  padding: 0.3rem;
+  font-size: 13px;
+}
+.albummm {
+  display: flex;
+}
+.Name {
+  font-size: 15px;
+}
+.fr-info:hover {
+  color: white;
+  text-decoration: underline;
+}
+.friends {
+  display: flex;
+  flex-direction: column;
+}

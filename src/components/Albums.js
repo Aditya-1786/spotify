@@ -13,6 +13,10 @@ import potter from "../Images/potter.jpeg";
 import tx from "../Images/tx.jpg";
 import dc from "../Images/dc.jpg";
 import tiss from "../Images/tiss.jpg";
+import best from "../albums/best.jpg";
+import id from "../albums/id.jpg";
+import pop from "../albums/pop.jpg";
+import top from "../albums/top.jpg";
 
 const Albums = (props) => {
   return (
@@ -81,24 +85,24 @@ const Albums = (props) => {
       <h2 className="greeting">Your top mixes</h2>
       <div className="albums-container">
         <div className="a1">
-          <img src={dc}></img>
-          <div className="album-title">Dan Carlin's Hardcore History</div>
-          <div className="length">Jan 12 - 56 MIN</div>
+          <img src={top}></img>
+          <div className="album-title">Top 50 Global</div>
+          <div className="length">2 HR 36 MIN</div>
         </div>
         <div className="a1">
-          <img src={tiss}></img>
-          <div className="album-title">The Internet Said So..</div>
-          <div className="length">Feb 3 - 48 MIN</div>
+          <img src={pop}></img>
+          <div className="album-title">Best of POP</div>
+          <div className="length">2 HR 48 MIN</div>
         </div>
         <div className="a1">
-          <img src={potter}></img>
-          <div className="album-title">What The Wizard!!</div>
-          <div className="length">Jan 23 - 39 MIN</div>
+          <img src={id}></img>
+          <div className="album-title">This is Imagine Dragons</div>
+          <div className="length">3 HR 23 MIN</div>
         </div>
         <div className="a1">
-          <img src={tx}></img>
-          <div className="album-title">TedX Shorts</div>
-          <div className="length">Mar 12 - 46 MIN</div>
+          <img src={best}></img>
+          <div className="album-title">Best of Decade</div>
+          <div className="length">1 HR 55 MIN</div>
         </div>
       </div>
     </div>
